@@ -1,0 +1,49 @@
+.cor-titulo {
+  color: #c1936b
+}
+
+.card-central {
+  max-width: 400px;
+  margin: auto;
+  width: 60%;
+  margin-top: 1%;
+}
+
+.font-size-titulo {
+  font-size: large;
+}
+
+.largura-100 {
+  width: 100%;
+}
+
+.largura-50 {
+  width: 50%;
+}
+
+.ajuste-botao {
+  background-color: #f3e8de;
+  color: #c1936b;
+  margin: 0 auto;
+  display: block;
+}
+
+.margin-top {
+  margin-top: 5%;
+}
+
+.font-size-rodape {
+  font-size: smaller;
+}
+
+.centralizar-texto {
+  text-align: center;
+}
+
+::ng-deep .mat-form-field.mat-focused .mat-form-field-label {
+  color: #c4a788 !important;
+}
+
+::ng-deep .mat-focused .mat-form-field-underline .mat-form-field-ripple {
+  background-color: #c4a788 !important;
+}
